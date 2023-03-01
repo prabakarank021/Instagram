@@ -1,1 +1,2 @@
 New featrue for chating in instagram.
+Chat bug fixed by praba.
